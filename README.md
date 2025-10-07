@@ -1,10 +1,10 @@
-# 🏠 House Price Prediction
+#  House Price Prediction
 
-### 📘 Project ID: PRCP-1020-HousePricePred
+###  Project ID: PRCP-1020-HousePricePred
 
 ---
 
-## 🧩 Problem Statement
+##  Problem Statement
 
 The goal of this project is to **analyze the factors affecting house prices** and develop a **robust machine learning model** capable of accurately predicting the price of a house based on various market and property-related attributes.
 
@@ -16,7 +16,7 @@ The goal of this project is to **analyze the factors affecting house prices** an
 
 ---
 
-## 🏗️ Project Workflow
+##  Project Workflow
 
 1. **Data Understanding**
    - Loaded the dataset containing **1460 rows and 81 features**.
@@ -53,7 +53,7 @@ The goal of this project is to **analyze the factors affecting house prices** an
 
 ---
 
-## ⚙️ Technologies & Tools
+##  Technologies & Tools
 
 - **Python**
 - **NumPy**, **Pandas**
